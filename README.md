@@ -47,10 +47,9 @@ All 23 have the same direction in the paired analysis and 16 of them are also si
 
 ## Files
 
-```
-scrna_seq_en.ipynb   full analysis, run top to bottom in Google Colab
-results/             DE tables, GSEA tables, figures
-```
+- [report.pdf](report.pdf): short summary with figures
+- [scrna_seq_en.ipynb](scrna_seq_en.ipynb): full analysis, run top to bottom in Google Colab
+- [results/](results/): DE tables, GSEA tables, figures
 
 The notebook installs its own packages and downloads the data from GEO (about 115 MB). Package versions are not pinned. It was run in Colab with Python 3.13 in October 2026.
 
